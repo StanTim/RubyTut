@@ -1,4 +1,4 @@
-class Good_Girl
+class GoodGirl
 
 def detected!(from_end_of_video)
 
